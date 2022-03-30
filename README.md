@@ -1,24 +1,29 @@
 # Coding With Us!
-:star2: *A Useful & interesting offline learning app to learn coding* :star2:<br>
-&emsp;&emsp;&ensp;^<br>
-⚝<. ˊᵕ ˋ· 7<br>
-&emsp;&nbsp;ㄥ&emsp;v<br>
+:star2: *A Useful & interesting offline learning app to learn coding* :star2:<br/>
+&emsp;&emsp;&ensp;^<br/>
+⚝<. ˊᵕ ˋ· 7<br/>
+&emsp;&nbsp;ㄥ&emsp;v<br/>
 
 ## Table of Contents
 
-[TOC]
+[Installation Instructions](#installation-instructions)<br/>
+[Operating Instructions](#operating-instructions)<br/>
+[Copyright and Licensing Information](#copyright-and-licensing-information)<br/>
+[Contact Information for the Distributor](#contact-information-for-the-distributor)<br/>
+[A List of Known Bugs](#a-list-of-known-bugs)<br/>
+[Troubleshooting Instructions](#troubleshooting-instructions)<br/>
+[Credits and Acknowledgments](#credits-and-acknowledgments)<br/>
+[A Changelog](#a-changelog)
 
 ## Installation Instructions 
 
-1. Turn Google Play Protect off
-．open the Google Play Store app
-．at the top right, tap the profile icon
-．tap Play Protect. Settings.
+1. Turn Google Play Protect off<br/>
+．open the Google Play Store app<br/>
+．at the top right, tap the profile icon<br/>
+．tap Play Protect. Settings.<br/>
 ．turn Scan apps with Play Protect off
-2. Sign in GitHub
-3. Download our [app](link到apk檔)
-4. The installation is complete!
-
+2. Download [CodingWithUs.apk](link到apk檔) on your Android and install it.
+3. The installation is complete!
 
 ## Operating Instructions
 
@@ -39,14 +44,16 @@
 2. Click "中文" or "English" to **switch the language** of the app.
 3. Click "Clear User Data" to clear your history.
 4. You have two ways to **contact us**: send gmail to us, or tap the name under "Develops". If you have any questions, please feel free to contact us!
-:::info 
-**EASTER EGG**
+
+> **EASTER EGG**<br/>
 > This method is the same as **unlock the developer options** on your Android smartphone. 
-1. Enter the settings interface, **click "Version" seven times**.
-2. You will see the Easter Egg.
-:::
+> 1. Enter the settings interface, **click "Version" seven times**.
+> 2. You will see the Easter Egg.
+
 
 ## Copyright and Licensing Information
+
+We use the MIT license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -76,30 +83,24 @@ Thank our livers!:zap:
 
 ## Troubleshooting Instructions
 
-> ### I can't use the file format of apk to download "Coding With Us," how should I do to deal with the problem?
-> :::spoiler
+### I can't use the file format of apk to download "Coding With Us," how should I do to deal with the problem?
 > *Go to Google Play, turn off the anti-drug program, and then download it again.* 
-> :::
+
 \-
-> ### How to see the teaching content?
-> :::spoiler
+### How to see the teaching content?
 > *Select the unit which you want to learn and click on the attached picture to see the teaching content.*
-> :::
+
 \-
-> ### How to copy the example code?
-> :::spoiler
+### How to copy the example code?
 > *You can copy the example code by clicking on the picture of it.*
-> :::
+
 \-
-> ### How can I know the rule of the quiz?
-> :::spoiler
+### How can I know the rule of the quiz?
 > *When you enter the quiz, click on the question mark at the top right, and you can see the instruction of the quiz.*
-> :::
+
 \-
-> ### How to divide my sight to answer the question while controlling the starfish when playing Quiz Game?
-> :::spoiler
+### How to divide my sight to answer the question while controlling the starfish when playing Quiz Game?
 > *Just keep practicing and you'll become better!*
-> :::
 
 ## Credits and Acknowledgments
 
@@ -121,35 +122,34 @@ Thank our livers!:zap:
 
 ## A Changelog
 
-###### tags: notyet
-* **0.5.0**
-*2022.03.13*
-\- Surface completed
+* **0.5.0**<br/>
+*2022.03.13*<br/>
+\- Surface completed<br/>
 
-* **0.5.5**
-*2022.03.20*
-\- Quiz Game completed
-\- Tutorial format finalized
-\- Optimize user interface
-\- Double death message bug fixed
+* **0.5.5**<br/>
+*2022.03.20*<br/>
+\- Quiz Game completed<br/>
+\- Tutorial format finalized<br/>
+\- Optimize user interface<br/>
+\- Double death message bug fixed<br/>
 
-* **0.5.7**
-*2022.03.27*
-\- Added Python lecture content
-\- Colored example code
-\- Revamped Quiz Game interface layout
-\- Add unit clearance record
+* **0.5.7**<br/>
+*2022.03.27*<br/>
+\- Added Python lecture content<br/>
+\- Colored example code<br/>
+\- Revamped Quiz Game interface layout<br/>
+\- Add unit clearance record<br/>
 
-* **0.5.9**
-*2022.03.30*
-\- Added C++ lecture content
-\- Cannot copy bug fixed
-\- Fixed some text display issues
+* **0.5.9**<br/>
+*2022.03.30*<br/>
+\- Added C++ lecture content<br/>
+\- Cannot copy bug fixed<br/>
+\- Fixed some text display issues<br/>
 
-* **1.0.0**
-*2022.03.31*
-\- Fixed some text display issues
-\- Fixed example code copy result error
-\- Increase the chance of the correct answer Option Paper Airplanes appearing in Quiz Game
+* **1.0.0**<br/>
+*2022.03.31*<br/>
+\- Fixed some text display issues<br/>
+\- Fixed example code copy result error<br/>
+\- Increase the chance of the correct answer Option Paper Airplanes appearing in Quiz Game<br/>
 
 ###### tags: `Android` `tutorial` `C++` `Python`
