@@ -22,7 +22,7 @@
 ．at the top right, tap the profile icon<br/>
 ．tap Play Protect. Settings.<br/>
 ．turn Scan apps with Play Protect off
-2. Download [CodingWithUs.apk](link到apk檔) on your Android and install it.
+2. Download [CodingWithUs.apk](https://github.com/ZaWarudo87/CodingWithUs/blob/main/CodingWithUs.apk) on your Android and install it.
 3. The installation is complete!
 
 ## Operating Instructions
